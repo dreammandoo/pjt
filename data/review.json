@@ -1,0 +1,27 @@
+[
+	{
+		"videoNo": 1, 
+		"reviewNo": 2, 
+		"nickName": "전신", 
+		"content": "앙기모링"
+	},
+	{
+		"videoNo": 2, 
+		"reviewNo": 2, 
+		"nickName": "전신2", 
+		"content": "앙기모링2"
+	},
+	{
+		"videoNo": 2, 
+		"reviewNo": 2, 
+		"nickName": "전신3", 
+		"content": "앙기모링3"
+	},
+	{
+		"videoNo": 3, 
+		"reviewNo": 2, 
+		"nickName": "전신4", 
+		"content": "앙기모링4"
+	}
+	
+]
